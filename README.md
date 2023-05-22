@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Esta es la pagina de desarrollador de Daniel Calvo (Luxer), donde ire subiendo mis proyectos y donde podreis obtener informaciond e contacto sobre mi
 <!--
 **Luxer5/Luxer5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
